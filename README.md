@@ -9,7 +9,7 @@ The program will perform the following tasks:
 4. Print a message for the student based on the average.
 5. Display the list of grades the student received.
 
-Here is a sample output of the code:
+Here is a sample output of the code:  
 ![](https://i.ibb.co/YWTmsZy/sample-output.png)
 
 #### Task #2:
@@ -22,13 +22,13 @@ Create a program to manage a simple To-Do List
 
 **note**: Add comments in English for each operation you perform.
 Here is some samples from the output (kindly, note that `formattedDisplay` function has been called after every operation):
-* add a task: 
+* add a task:  
 ![](https://i.ibb.co/7kRMhjz/add-tasks.png)
-* complete a task:
+* complete a task:  
 ![](https://i.ibb.co/FgXSBnH/mark-as-completed.png)
-* delete a task:
+* delete a task:  
 ![](https://i.ibb.co/ckmKdf8/delete-tasks.png)
-* display tasks:
+* display tasks:  
 ![](https://i.ibb.co/zRvS1S3/display-all-tasks.png)
-* display completed task:
+* display completed task:  
 ![](https://i.ibb.co/NxR0HjB/display-completed-tasks.png)
